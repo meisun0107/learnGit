@@ -8,3 +8,7 @@ creating a new branch is quick AND simple.
 
 learn   --no-ff  git merge.
 
+
+
+I am working now, but there is a bug appearing...
+
